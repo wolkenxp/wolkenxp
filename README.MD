@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Leonardo
-
 <p align="center">
   <img src="https://github.com/wolkenxp/wolkenxp/blob/main/assets/Leonardo.gif" alt="Oi, eu sou Leonardo">
 </p>
