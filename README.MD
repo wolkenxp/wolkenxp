@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Leonardo
 
 <p align="center">
-  <img src="https://github.com/wolkenxp/wolkenxp/blob/master/assets/Leonardo.gif">
+  <img src="https://github.com/wolkenxp/wolkenxp/blob/master/assets/Leonardo.gif" alt="Oi, eu sou o Leonardo">
 </p>
 
 Hi, I'm a software engineering student and I've always loved technology.
